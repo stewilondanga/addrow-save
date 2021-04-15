@@ -217,10 +217,11 @@ main table tr th:first-child {
   }
 }
 
-/*main table tr td:not(:first-child) {
+main table tr td:not(:first-child) {
   justify-content: center;
 }
-main table tr td:not(:first-child) input {
+
+/*main table tr td:not(:first-child) input {
   text-align: center !important;
 }
 main table tr td input.mv-editor {
