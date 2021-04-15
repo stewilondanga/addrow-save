@@ -324,7 +324,7 @@ main .mv-bar.mv-ui .mv-button.mv-drag-handle, main .mv-bar.mv-ui button.mv-drag-
   display: none !important;
 }
 
-/*main .mv-add-row5 {
+main .mv-add-row5 {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -341,7 +341,8 @@ main .mv-bar.mv-ui .mv-button.mv-drag-handle, main .mv-bar.mv-ui button.mv-drag-
   font-weight: 700;
   font-size: 15px;
 }
-.mv-bar.mv-ui {
+
+/*.mv-bar.mv-ui {
   padding: 0;
 }
 main .mv-add-row5:hover {
