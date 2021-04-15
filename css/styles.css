@@ -164,8 +164,8 @@ main table tr td, main table tr th {
   padding: 10px;
 }
 
-/*@media (max-width: 599px) {
-  main table tr td, main table tr th {
+@media (max-width: 599px) {
+  /*main table tr td, main table tr th {
     display: block;
     text-align: center;
     padding: 10px 0;
