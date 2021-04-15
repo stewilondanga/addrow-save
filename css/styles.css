@@ -127,8 +127,8 @@ main table {
   }
 }
 
-/*@media (max-width: 599px) {
-  main table tr:first-child {
+@media (max-width: 599px) {
+  /*main table tr:first-child {
     display: none;
   }
 }
