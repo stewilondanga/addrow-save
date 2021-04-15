@@ -346,11 +346,11 @@ main .mv-add-row5 {
   padding: 0;
 }
 
-/*main .mv-add-row5:hover {
+main .mv-add-row5:hover {
   transform: scale(1.1);
 }
 
-[mv-app].mv-highlight-unsaved .mv-unsaved-changes {
+/*[mv-app].mv-highlight-unsaved .mv-unsaved-changes {
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
 }
