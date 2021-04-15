@@ -262,10 +262,11 @@ main table tr td.mv-item-bar.mv-ui button, main table tr td.mv-item-bar.mv-ui[hi
   background: #fff;
 }
 
-/*main table tr td.mv-item-bar.mv-ui button:hover, main table tr td.mv-item-bar.mv-ui[hidden] button:hover {
+main table tr td.mv-item-bar.mv-ui button:hover, main table tr td.mv-item-bar.mv-ui[hidden] button:hover {
   border-radius: 0;
 }
-main .bar {
+
+/*main .bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
