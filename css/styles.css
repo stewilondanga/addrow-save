@@ -108,10 +108,11 @@ main {
   margin: 0 auto;
 }
 
-/*main h1 {
+main h1 {
   float: left;
 }
-main table {
+
+/*main table {
   width: 100%;
 }
 @media (min-width: 600px) {
