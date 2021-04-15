@@ -59,6 +59,69 @@
     </div>
   </div>
 
+  <main mv-app="table" mv-storage="local" mv-mode="edit">
+    <h1>Cat Breed Characteristics</h1>
+  	<table>
+      <tr>
+        <th id="breed">Breed</th>
+        <th id="affectionLevel">Affection</th>
+        <th id="energyLevel">Energy</th>
+        <th id="friendliness">Friendliness</th>
+        <th id="intelligence">Intelligence</th>
+        <th></th>
+      </tr>
+  		<tr property="row" mv-multiple>
+  			<td property="breed">Abyssinian</td>
+        <td property="affectionLevel">*****</td>
+        <td property="energyLevel">****</td>
+        <td property="friendliness">*****</td>
+        <td property="intelligence">****</td>
+        <td class="mv-item-bar mv-ui"></td>
+  		</tr>
+      <tr property="row2" mv-multiple>
+  			<td property="breed">Bengal</td>
+        <td property="affectionlLevel">*****</td>
+        <td property="energyLevel">*****</td>
+        <td property="friendliness">***</td>
+        <td property="intelligence">*****</td>
+        <td class="mv-item-bar mv-ui"></td>
+  		</tr>
+      <tr property="row3" mv-multiple>
+  			<td property="breed">Himalayan</td>
+        <td property="affectionLevel">****</td>
+        <td property="energyLevel">*****</td>
+        <td property="friendliness">**</td>
+        <td property="intelligence">*****</td>
+        <td class="mv-item-bar mv-ui"></td>
+  		</tr>
+      <tr property="row4" mv-multiple>
+  			<td property="breed">Maine Coon</td>
+        <td property="affectionLevel">****</td>
+        <td property="energyLevel">***</td>
+        <td property="friendliness">*****</td>
+        <td property="intelligence">*****</td>
+        <td class="mv-item-bar mv-ui"></td>
+  		</tr>
+      <tr property="row5" mv-multiple>
+  			<td property="breed">Russian Blue</td>
+        <td property="affectionLevel">***</td>
+        <td property="energyLevel">***</td>
+        <td property="friendliness">*</td>
+        <td property="intelligence">***</td>
+        <td class="mv-item-bar mv-ui"></td>
+  		</tr>
+  	</table>
+
+    <div class="bar">
+      <button class="mv-add-row5">Add Row</button>
+      <div class="saved">Your changes have been saved to local storage</div>
+      <div class="mv-bar mv-ui">
+        <button class="mv-save">Save</button>
+        <a class="mv-export mv-button">Export</a>
+      </div>
+    </div>
+  </main>
+
   <section id="contact">
     <div class="overlay">
       <div class="containers">
