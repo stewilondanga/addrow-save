@@ -257,11 +257,12 @@ main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
   }
 }
 
-/*main table tr td.mv-item-bar.mv-ui button, main table tr td.mv-item-bar.mv-ui[hidden] button {
+main table tr td.mv-item-bar.mv-ui button, main table tr td.mv-item-bar.mv-ui[hidden] button {
   border-radius: 0;
   background: #fff;
 }
-main table tr td.mv-item-bar.mv-ui button:hover, main table tr td.mv-item-bar.mv-ui[hidden] button:hover {
+
+/*main table tr td.mv-item-bar.mv-ui button:hover, main table tr td.mv-item-bar.mv-ui[hidden] button:hover {
   border-radius: 0;
 }
 main .bar {
