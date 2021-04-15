@@ -173,11 +173,12 @@ main table tr td, main table tr th {
     font-size: 18px !important;
   }
 
-  /*main table tr th {
+  main table tr th {
     background: #fff !important;
     color: #000 !important;
   }
-  main table tr td:not(:first-of-type) {
+
+  /*main table tr td:not(:first-of-type) {
     background: #EEE;
   }
 }
