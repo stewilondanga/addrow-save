@@ -23,5 +23,5 @@ function mobileViewUpdate() {
     });
   }
 }
-/*
+
 $(window).on('load resize', mobileViewUpdate);
