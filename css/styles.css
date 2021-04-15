@@ -225,12 +225,13 @@ main table tr td:not(:first-child) input {
   text-align: center !important;
 }
 
-/*main table tr td input.mv-editor {
+main table tr td input.mv-editor {
   width: 100% !important;
   -webkit-appearance: none !important;
   outline: 0 !important;
 }
-main table tr td input.mv-editor:focus {
+
+/*main table tr td input.mv-editor:focus {
   padding: 5px 0 !important;
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
