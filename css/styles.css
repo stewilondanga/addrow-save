@@ -189,7 +189,7 @@ main table tr td, main table tr th {
   }
 }
 
-/*main table tr th {
+main table tr th {
   background: #4CAF50;
   border: #4CAF50;
   color: #fff;
@@ -197,7 +197,8 @@ main table tr td, main table tr th {
   letter-spacing: 2px;
   font-weight: 600;
 }
-main table tr th:first-child {
+
+/*main table tr th:first-child {
   text-align: left;
 }
 @media (min-width: 600px) {
