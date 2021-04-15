@@ -280,13 +280,14 @@ main .bar .saved {
   padding-left: 35px;
 }
 
-/*main .mv-bar.mv-ui, main .mv-bar.mv-ui.mv-compact {
+main .mv-bar.mv-ui, main .mv-bar.mv-ui.mv-compact {
   float: right;
   margin-bottom: 25px;
   background: transparent;
   position: static !important;
 }
-main .mv-bar.mv-ui .mv-button, main .mv-bar.mv-ui button, main .mv-bar.mv-ui button:focus, main .mv-bar.mv-ui.mv-compact .mv-button, main .mv-bar.mv-ui.mv-compact button, main .mv-bar.mv-ui.mv-compact button:focus {
+
+/*main .mv-bar.mv-ui .mv-button, main .mv-bar.mv-ui button, main .mv-bar.mv-ui button:focus, main .mv-bar.mv-ui.mv-compact .mv-button, main .mv-bar.mv-ui.mv-compact button, main .mv-bar.mv-ui.mv-compact button:focus {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
