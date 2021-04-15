@@ -165,14 +165,15 @@ main table tr td, main table tr th {
 }
 
 @media (max-width: 599px) {
-  /*main table tr td, main table tr th {
+  main table tr td, main table tr th {
     display: block;
     text-align: center;
     padding: 10px 0;
     font-weight: 400 !important;
     font-size: 18px !important;
   }
-  main table tr th {
+
+  /*main table tr th {
     background: #fff !important;
     color: #000 !important;
   }
