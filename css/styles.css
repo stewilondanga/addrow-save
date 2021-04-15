@@ -202,13 +202,14 @@ main table tr th:first-child {
   text-align: left;
 }
 
-/*@media (min-width: 600px) {
+@media (min-width: 600px) {
   main table tr td {
     display: flex;
     align-items: center;
   }
 }
-@media (max-width: 599px) {
+
+/*@media (max-width: 599px) {
   main table tr td:first-child {
     background: #4CAF50;
     color: #fff;
