@@ -238,7 +238,7 @@ main table tr td input.mv-editor:focus {
   -webkit-appearance: none !important;
 }
 
-/*main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
+main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
   position: static;
   opacity: 1;
   width: 100%;
@@ -247,7 +247,8 @@ main table tr td input.mv-editor:focus {
   box-shadow: none;
   border-radius: 0;
 }
-@media (max-width: 599px) {
+
+/*@media (max-width: 599px) {
   main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
     background: #fff;
     padding: 15px 0;
