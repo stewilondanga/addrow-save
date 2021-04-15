@@ -320,10 +320,11 @@ main .mv-bar.mv-ui .mv-button.mv-drag-handle, main .mv-bar.mv-ui button.mv-drag-
   background: transparent !important;
 }
 
-/*.mv-add.mv-ui:not(.mv-add-row5) {
+.mv-add.mv-ui:not(.mv-add-row5) {
   display: none !important;
 }
-main .mv-add-row5 {
+
+/*main .mv-add-row5 {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
