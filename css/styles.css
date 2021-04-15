@@ -159,11 +159,12 @@ main table tr button.mv-undo:hover {
   color: #fff;
 }
 
-/*main table tr td, main table tr th {
+main table tr td, main table tr th {
   width: 100%;
   padding: 10px;
 }
-@media (max-width: 599px) {
+
+/*@media (max-width: 599px) {
   main table tr td, main table tr th {
     display: block;
     text-align: center;
