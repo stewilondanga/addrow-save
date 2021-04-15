@@ -178,11 +178,12 @@ main table tr td, main table tr th {
     color: #000 !important;
   }
 
-  /*main table tr td:not(:first-of-type) {
+  main table tr td:not(:first-of-type) {
     background: #EEE;
   }
 }
-@media (min-width: 600px) {
+
+/*@media (min-width: 600px) {
   main table tr td:last-child, main table tr th:last-child {
     max-width: 100px !important;
   }
