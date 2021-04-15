@@ -116,8 +116,8 @@ main table {
   width: 100%;
 }
 
-/*@media (min-width: 600px) {
-  main table tr {
+@media (min-width: 600px) {
+  /*  main table tr {
     display: flex;
     justify-content: space-evenly;
   }
