@@ -231,13 +231,14 @@ main table tr td input.mv-editor {
   outline: 0 !important;
 }
 
-/*main table tr td input.mv-editor:focus {
+main table tr td input.mv-editor:focus {
   padding: 5px 0 !important;
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
   -webkit-appearance: none !important;
 }
-main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
+
+/*main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
   position: static;
   opacity: 1;
   width: 100%;
