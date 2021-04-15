@@ -147,13 +147,14 @@ main table tr button.mv-close {
   margin-right: 3px;
 }
 
-/*main table tr button.mv-undo {
+main table tr button.mv-undo {
   border: 1px solid #fff;
   background: #fff;
   padding: 7px 20px;
   cursor: pointer;
 }
-main table tr button.mv-undo:hover {
+
+/*main table tr button.mv-undo:hover {
   background: #4CAF50;
   color: #fff;
 }
