@@ -350,11 +350,12 @@ main .mv-add-row5:hover {
   transform: scale(1.1);
 }
 
-/*[mv-app].mv-highlight-unsaved .mv-unsaved-changes {
+[mv-app].mv-highlight-unsaved .mv-unsaved-changes {
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
 }
 
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
