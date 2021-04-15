@@ -137,10 +137,11 @@ main table tr:nth-child(even) {
   background: #EEE;
 }
 
-/*main table tr.mv-deleted {
+main table tr.mv-deleted {
   padding: 10px 10px;
 }
-main table tr button.mv-close {
+
+/*main table tr button.mv-close {
   padding: 4px 3px 3px;
   margin-top: 3px;
   margin-right: 3px;
