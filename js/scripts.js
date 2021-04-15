@@ -6,11 +6,11 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*
+
 $('.mv-save').on('click', function() {
   $('.saved').fadeIn().delay(3000).fadeOut();
 });
-
+/*
 function mobileViewUpdate() {
     var viewportWidth = $(window).width();
     if (viewportWidth < 600) {
