@@ -304,10 +304,11 @@ main .mv-bar.mv-ui .mv-button, main .mv-bar.mv-ui button, main .mv-bar.mv-ui but
   text-shadow: none !important;
 }
 
-/*main .mv-bar.mv-ui .mv-button:before, main .mv-bar.mv-ui button:before, main .mv-bar.mv-ui button:focus:before, main .mv-bar.mv-ui.mv-compact .mv-button:before, main .mv-bar.mv-ui.mv-compact button:before, main .mv-bar.mv-ui.mv-compact button:focus:before {
+main .mv-bar.mv-ui .mv-button:before, main .mv-bar.mv-ui button:before, main .mv-bar.mv-ui button:focus:before, main .mv-bar.mv-ui.mv-compact .mv-button:before, main .mv-bar.mv-ui.mv-compact button:before, main .mv-bar.mv-ui.mv-compact button:focus:before {
   display: none !important;
 }
-main .mv-bar.mv-ui .mv-button:hover, main .mv-bar.mv-ui button:hover, main .mv-bar.mv-ui button:focus:hover, main .mv-bar.mv-ui.mv-compact .mv-button:hover, main .mv-bar.mv-ui.mv-compact button:hover, main .mv-bar.mv-ui.mv-compact button:focus:hover {
+
+/*main .mv-bar.mv-ui .mv-button:hover, main .mv-bar.mv-ui button:hover, main .mv-bar.mv-ui button:focus:hover, main .mv-bar.mv-ui.mv-compact .mv-button:hover, main .mv-bar.mv-ui.mv-compact button:hover, main .mv-bar.mv-ui.mv-compact button:focus:hover {
   transform: scale(1.1);
   background: rgba(0, 0, 0, 0.2);
 }
