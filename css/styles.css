@@ -248,7 +248,7 @@ main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
   border-radius: 0;
 }
 
-/*@media (max-width: 599px) {
+@media (max-width: 599px) {
   main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
     background: #fff;
     padding: 15px 0;
@@ -256,7 +256,8 @@ main table tr td.mv-item-bar.mv-ui, main table tr td.mv-item-bar.mv-ui[hidden] {
     justify-content: center;
   }
 }
-main table tr td.mv-item-bar.mv-ui button, main table tr td.mv-item-bar.mv-ui[hidden] button {
+
+/*main table tr td.mv-item-bar.mv-ui button, main table tr td.mv-item-bar.mv-ui[hidden] button {
   border-radius: 0;
   background: #fff;
 }
