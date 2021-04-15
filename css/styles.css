@@ -128,11 +128,12 @@ main table {
 }
 
 @media (max-width: 599px) {
-  /*main table tr:first-child {
+  main table tr:first-child {
     display: none;
   }
 }
-main table tr:nth-child(even) {
+
+/*main table tr:nth-child(even) {
   background: #EEE;
 }
 main table tr.mv-deleted {
