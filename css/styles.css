@@ -133,10 +133,11 @@ main table {
   }
 }
 
-/*main table tr:nth-child(even) {
+main table tr:nth-child(even) {
   background: #EEE;
 }
-main table tr.mv-deleted {
+
+/*main table tr.mv-deleted {
   padding: 10px 10px;
 }
 main table tr button.mv-close {
