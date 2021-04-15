@@ -210,13 +210,14 @@ main table tr th:first-child {
 }
 
 @media (max-width: 599px) {
-  /*main table tr td:first-child {
+  main table tr td:first-child {
     background: #4CAF50;
     color: #fff;
     font-size: 21px !important;
   }
 }
-main table tr td:not(:first-child) {
+
+/*main table tr td:not(:first-child) {
   justify-content: center;
 }
 main table tr td:not(:first-child) input {
