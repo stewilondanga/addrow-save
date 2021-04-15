@@ -209,8 +209,8 @@ main table tr th:first-child {
   }
 }
 
-/*@media (max-width: 599px) {
-  main table tr td:first-child {
+@media (max-width: 599px) {
+  /*main table tr td:first-child {
     background: #4CAF50;
     color: #fff;
     font-size: 21px !important;
