@@ -273,13 +273,14 @@ main .bar {
   width: 100%;
 }
 
-/*main .bar .saved {
+main .bar .saved {
   color: #4CAF50;
   font-size: 18px;
   display: none;
   padding-left: 35px;
 }
-main .mv-bar.mv-ui, main .mv-bar.mv-ui.mv-compact {
+
+/*main .mv-bar.mv-ui, main .mv-bar.mv-ui.mv-compact {
   float: right;
   margin-bottom: 25px;
   background: transparent;
