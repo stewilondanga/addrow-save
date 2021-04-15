@@ -266,13 +266,14 @@ main table tr td.mv-item-bar.mv-ui button:hover, main table tr td.mv-item-bar.mv
   border-radius: 0;
 }
 
-/*main .bar {
+main .bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
 }
-main .bar .saved {
+
+/*main .bar .saved {
   color: #4CAF50;
   font-size: 18px;
   display: none;
