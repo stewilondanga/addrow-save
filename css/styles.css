@@ -342,10 +342,11 @@ main .mv-add-row5 {
   font-size: 15px;
 }
 
-/*.mv-bar.mv-ui {
+.mv-bar.mv-ui {
   padding: 0;
 }
-main .mv-add-row5:hover {
+
+/*main .mv-add-row5:hover {
   transform: scale(1.1);
 }
 
