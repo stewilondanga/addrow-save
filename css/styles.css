@@ -308,11 +308,12 @@ main .mv-bar.mv-ui .mv-button:before, main .mv-bar.mv-ui button:before, main .mv
   display: none !important;
 }
 
-/*main .mv-bar.mv-ui .mv-button:hover, main .mv-bar.mv-ui button:hover, main .mv-bar.mv-ui button:focus:hover, main .mv-bar.mv-ui.mv-compact .mv-button:hover, main .mv-bar.mv-ui.mv-compact button:hover, main .mv-bar.mv-ui.mv-compact button:focus:hover {
+main .mv-bar.mv-ui .mv-button:hover, main .mv-bar.mv-ui button:hover, main .mv-bar.mv-ui button:focus:hover, main .mv-bar.mv-ui.mv-compact .mv-button:hover, main .mv-bar.mv-ui.mv-compact button:hover, main .mv-bar.mv-ui.mv-compact button:focus:hover {
   transform: scale(1.1);
   background: rgba(0, 0, 0, 0.2);
 }
-main .mv-bar.mv-ui .mv-button.mv-drag-handle, main .mv-bar.mv-ui button.mv-drag-handle, main .mv-bar.mv-ui button:focus.mv-drag-handle, main .mv-bar.mv-ui.mv-compact .mv-button.mv-drag-handle, main .mv-bar.mv-ui.mv-compact button.mv-drag-handle, main .mv-bar.mv-ui.mv-compact button:focus.mv-drag-handle {
+
+/*main .mv-bar.mv-ui .mv-button.mv-drag-handle, main .mv-bar.mv-ui button.mv-drag-handle, main .mv-bar.mv-ui button:focus.mv-drag-handle, main .mv-bar.mv-ui.mv-compact .mv-button.mv-drag-handle, main .mv-bar.mv-ui.mv-compact button.mv-drag-handle, main .mv-bar.mv-ui.mv-compact button:focus.mv-drag-handle {
   border: none !important;
   padding: 2px 0 0 10px !important;
   font-size: 30px !important;
