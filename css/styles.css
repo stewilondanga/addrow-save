@@ -122,11 +122,12 @@ main table {
     justify-content: space-evenly;
   }
 
-  /*main table tr[property] th {
+  main table tr[property] th {
     display: none;
   }
 }
-@media (max-width: 599px) {
+
+/*@media (max-width: 599px) {
   main table tr:first-child {
     display: none;
   }
